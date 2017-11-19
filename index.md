@@ -1,4 +1,5 @@
-## by Juan Foncuberta 
+#Larry Plotter
+## by Juan Foncuberta
 
 * Larry Plotter y El Bucle Filosofal
 * Larry Plotter y La Clave Secreta del Wifi
